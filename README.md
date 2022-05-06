@@ -10,7 +10,7 @@
 
 ## 项目总体流程
 
-![process](./pictures/process.png)
+![process](pictures/process.png)
 
 ## 代码说明
 
